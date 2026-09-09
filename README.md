@@ -1,3 +1,5 @@
+<img src="./logo_2026.svg" width="2000" alt="Course Logo">
+
 # Introduction to Python for Neuroscientists
 Course repository for the Fall 2026 edition of Introduction to Python for Neuroscientists, run by the Columbia Neurobiology and Behavior PhD program.
 
