@@ -42,13 +42,13 @@ Schedule (subject to change):
   <tr>
     <td class="tg-0pky">Week 2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/22)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Basics:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Why use python?</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data Types &amp; Variables (float, int, str, list, dict, tuple)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Booleans &amp; If/Else</span><br></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Utku</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sofiya</span></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Week 3<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/29)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Basics:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Lists </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Dictionaries</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Tuples </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- For Loops </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- List Comprehension </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Enumerate </span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sofiya</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Utku</span></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
