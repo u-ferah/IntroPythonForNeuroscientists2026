@@ -23,7 +23,7 @@ Please take some time to go through the following videos, so that you have a gen
 Windows users - if your username has a space in it (for instance, if your usename is `Python for Neuro`), this will cause issues down the road. Please create a new user account with no spaces or special characters to ensure that everything will run smoothly.
 
 ### Check if Conda is already installed
-- Open terminal using the following instructions for your operating system. (Instructions taken from [this source](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/)).
+- Open terminal using the following instructions for your operating system. (Instructions taken from [this source](https://learn.microsoft.com/en-us/training/modules/install-configure-visual-studio-code-python/)).
     - Mac:
         1. Open the Terminal app by pressing Command + Spacebar key combination to search by using Spotlight.
         2. In the search box, enter Terminal. In the results set select Terminal app, and then press Return to start the app.
