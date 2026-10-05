@@ -37,7 +37,7 @@ Schedule (subject to change):
     <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week01" target="_blank" rel="noopener noreferrer">Week 1</a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/15)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Workflow:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Use python locally in VSCode in file form and as Jupyter Notebooks (hello world)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Set up conda environment</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Git Basics – create a repo and commit to it</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sofiya</span></td>
-    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week01" target="_blank" rel="noopener noreferrer">HW0 (Submit on courseworks)</a></td>
+    <td class="tg-0pky"><a href="https://github.com/u-ferah/IntroPythonForNeuroscientists2026/tree/main/Week01" target="_blank" rel="noopener noreferrer">HW0 (Submit on courseworks)</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Week 2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/22)</span></td>
@@ -57,13 +57,13 @@ Schedule (subject to change):
     <span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Typehinting/Docstrings</span>
     </td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Utku</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://github.com/u-ferah/IntroPythonForNeuroscientists2026/tree/main/Week04" target="_blank" rel="noopener noreferrer">HW4 (Submit on courseworks)</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 5 (10/13)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Numpy: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Why do we need numpy?</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Basic numpy functionalty</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- How to manipulate and read out arrays</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- How to solve mathematical problems in Python.</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Utku</span></td>
-    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week04" target="_blank" rel="noopener noreferrer">HW4 (Submit on courseworks)</a></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 6 (10/20)</span></td>
